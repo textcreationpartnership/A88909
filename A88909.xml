@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short declaration by Colonel Edward Massie, (one of the imprisoned Members of the House of Commons; lately a prisoner at S. James's-house, Westminster; under the power of the sword, in the hands of that rebellious Army under the command of the Lord Fairfax) for his vindication. Together with his protestation against the illegall and tyrannicall proceedings of the said Army. January 19. An. Dom. 1648</title>
+            <author>Massey, Edward, Sir, 1619?-1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88909</idno>
+            <idno type="STC">Wing M1038</idno>
+            <idno type="STC">Thomason E541_7</idno>
+            <idno type="STC">ESTC R202940</idno>
+            <idno type="EEBO-CITATION">99863064</idno>
+            <idno type="PROQUEST">99863064</idno>
+            <idno type="VID">115246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115246)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short declaration by Colonel Edward Massie, (one of the imprisoned Members of the House of Commons; lately a prisoner at S. James's-house, Westminster; under the power of the sword, in the hands of that rebellious Army under the command of the Lord Fairfax) for his vindication. Together with his protestation against the illegall and tyrannicall proceedings of the said Army. January 19. An. Dom. 1648</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "feb. 2. 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115246:1" rendition="simple:additions"/>
+            <p>A SHORT DECLARATION BY Colonel <hi>EDWARD MASSIE,</hi> (one of the Impriſoned MEMBERS of the HOUSE OF COMMONS; Lately a <hi>Priſoner</hi> at S. <hi>James's-houſe, Weſtmin<g ref="char:EOLhyphen"/>ſter;</hi> under the Power of the Sword, in the hands of that Rebellious Army under the Command of the Lord FAIRFAX) <hi>For his Vindication.</hi>
+            </p>
+            <p>TOGETHER WITH HIS PROTESTATION <hi>AGAINST</hi> The Illegall and Tyrannicall proceedings of the ſaid ARMY. <hi>January</hi> 19. <hi>An. Dom.</hi> 1648.</p>
+            <q>
+               <bibl>
+                  <hi>PSALME 37. ver. 32, &amp; 33.</hi>
+               </bibl>
+               <p>The Wicked watcheth the Righteous, and ſeeketh to ſlay him.</p>
+               <p>The Lord will not leave him in his hand, nor condemne him when he is judged.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:115246:2"/>
+            <head>A SHORT <hi>DECLARATION</hi> BY Colonell <hi>Edw. Maſſey,</hi> &amp;c.</head>
+            <p>COuld I have ſatisfied my thoughts in that Manifeſtation of my faithfulneſſe and zeal to Gods Cauſe, the King, Parlia<g ref="char:EOLhyphen"/>ment, and Kingdome, which hath ſufficiently been held forth, and witneſſed as well by my former Actings, as late ſuffe<g ref="char:EOLhyphen"/>rings in, and for the ſame, I ſhould gladly have reſted therein con<g ref="char:EOLhyphen"/>tent: And although to the late Aſpertions caſt joyntly upon us the impriſoned and ſecluded Members of Parliament, by a paper Intitu<g ref="char:EOLhyphen"/>led <hi>An humble Anſwer of the Generall Councell of Officers of the Army under His Excellency</hi> Thomas <hi>Lord</hi> Fairfax, <hi>to the Honorable Houſe of Commons, concerning the Impriſoned and ſucluded Members, &amp;c.</hi> We have joyntly Anſwered, not doubting (if may paſſe the Preſſe) but it will ſufficiently ſatisfie all un-byaſſed and indifferent Readers, and return thoſe Scandalls upon their own Heads, ſhewing themſelves <hi>to be the Traytors, Apoſtates, Self-ſeekers, corrupt Members, &amp;c.</hi> which they would fain Charge upon us.</p>
+            <p>And yet, becauſe there lyeth not only an obligation upon me in common, with thoſe my Fellow-members. (as with them borne under one <hi>King</hi> of the ſame <hi>Nation,</hi> brought up in, and profeſſing one and the ſame <hi>glorious Faith,</hi> called to the ſame <hi>truſt in Parlia<g ref="char:EOLhyphen"/>ment;</hi> further, tyed by ſeverall <hi>Oathes</hi> of <hi>Alegeance, Supremacy, Pro<g ref="char:EOLhyphen"/>teſtation,</hi> and <hi>Solemne League</hi> and <hi>Covenant</hi> together in Conjunction and Brother-hood:) But further alſo, ſomething as a <hi>Souldier,</hi> (be<g ref="char:EOLhyphen"/>fore I was called to the Honour of being a Member of Parliament) wherein I may ſeeme more concerned, as one that with his Sword hath openly, and before the face of the world Juſtified and Vindica<g ref="char:EOLhyphen"/>ted (according to what God enabled me) that, the beſt of Cauſes which the <hi>Parliament</hi> then <hi>Aſſerted, Declared for,</hi> and bound them<g ref="char:EOLhyphen"/>ſelves
+<pb n="3" facs="tcp:115246:2"/>by a <hi>ſolemne Oath and Covenant</hi> to follow and purſue.</p>
+            <p n="1">1. I ſhall therefore, firſt in that my undertaking, deſire to clear and vindicate my ſelf from any falſe aſperſions which are, or may, by malice it ſelf, be unjuſtly caſt upon me, for the blaſting of my Repu<g ref="char:EOLhyphen"/>tation.</p>
+            <p n="2">2. And next, I ſhall give my reaſons of my freeing my ſelf from the hands of my unjuſt Adverſaries, and Gaolers.</p>
+            <p>And being by Gods great mercy and goodneſſe at preſent from under their hands, I ſhall proteſt againſt both them, and all their ad<g ref="char:EOLhyphen"/>herents as Actors of violence, and as <hi>
+                  <g ref="char:V">Ʋ</g>nlawfull, Diſloyall, Covenant-breakers,</hi> and <hi>Perjured perſons,</hi> if they ſhall perſiſt in their treaſonable Deſinnes.</p>
+            <p>In the beginning of theſe unhappy and ſad differences betweene the <hi>KING</hi> and His <hi>Parliament,</hi> I beheld the Tranſactions, and read the ſeverall Declarations of them both, (with the beſt dilligence and circumſpection I was able;) And finding both Parties profeſſing much the ſame thing, (as to the peace and welfare of the Church and Kingdome, (only differing in the way) I was not a little at a ſtand; but after a longer conteſt, and that the <hi>Royall Standard</hi> was ſet up at <hi>Nottingham,</hi> And finding that the Parliament in their ſeve<g ref="char:EOLhyphen"/>rall Addreſſes to His <hi>Majeſty,</hi> ſtill continuing their former Profeſ<g ref="char:EOLhyphen"/>ſions of duty to Him, &amp;c. According to their former Proteſtation, and many Declarations, that they never intended, <hi>either co alter the Fundamentall Government of the Kingdome, by King, Lords, and Com<g ref="char:EOLhyphen"/>mons, &amp;c.</hi> But that their taking up the Sword was only for the <hi>De<g ref="char:EOLhyphen"/>fending of His Majeſties Perſon and Authority, for the removall of the evill Councellours, that ſo His Throne might be eſtabliſhed in Righteouſ<g ref="char:EOLhyphen"/>neſſe,</hi> and for the bringing of His <hi>Majeſty to the Parliament,</hi> and to make Him a <hi>glorious King,</hi> and the like. As alſo for the <hi>Defence</hi> of our <hi>Religion,</hi> and ſetling a happy Reformation in the Church (which by ſome Superſtitious Biſhops had received ſome blemiſhes in their Diſcipline, not becomming the purity and ſimplicity of the Goſpel:) The bringing Delinquents to condigne Puniſhment, and laſtly (a<g ref="char:EOLhyphen"/>mongſt many others) the preſervation of themſelves, and <hi>Priviledges of Parliament</hi> from Ruine and Deſtruction, of that Sword threatned againſt them for doing of their duty in the performance of the Kingdomes Truſt, &amp;c.</p>
+            <p>Upon theſe Grounds, conſidering that it was poſſible for His <hi>Majeſty</hi> by ſome about Him (who only aimed at their own Advan<g ref="char:EOLhyphen"/>tage and Deſigne) to be miſled, and drawn aſide, to the danger of
+<pb n="4" facs="tcp:115246:3"/>the Kingdome, and His own prejudice, which he might not fore<g ref="char:EOLhyphen"/>ſee, much leſſe intend.</p>
+            <p>And next, looking upon the <hi>Parliament, the Kings Greateſt Coun<g ref="char:EOLhyphen"/>cell,</hi> the <hi>Collective body,</hi> and <hi>Truſtees</hi> of the <hi>People,</hi> and by His <hi>Ma<g ref="char:EOLhyphen"/>jeſties own free Act confirmed to be a Parliament of Power,</hi> and ſo their Ordinances made Authentick and of Force, notwithſtanding the deniall of His Majeſties preſence, being both knowing men and Re<g ref="char:EOLhyphen"/>ligious, I ſuppoſed they would not poſſibly be ſo mad or wretched, as not to ſee the things they proſecuted firſt, to be <hi>Juſt;</hi> and next, the way thereunto to be warrantable and lawfull, ſuppoſing none of them could have any thought or aime beyond the <hi>Publick good</hi> (which is the beſt Good) eſpecially having ſo largely declared to the world, they intended nothing beyond what they had profeſſed to His <hi>Majeſty</hi> (as before) I was (with diverſe other faithfull Gentle<g ref="char:EOLhyphen"/>men) induced to receive a Commiſſion, as Lieutenant Colonell, to the Right Honourable the Earl of <hi>Stamford,</hi> under the Hand and Seal of His Excellency the Earl of <hi>Eſſex,</hi> (ever of beloved and re<g ref="char:EOLhyphen"/>nowned Memory) in which was ſpecified the ground of my taking up Armes, to be <hi>for the Defence of the true Proteſtant Religion, the ſafety of His Majeſties Perſon, and of the Parliament, the Preſer<g ref="char:EOLhyphen"/>vation of the Lawes, Liberties, and peace of the Kingdome, and the Protection of His Majeſties Subjects, from violence and oppreſ<g ref="char:EOLhyphen"/>ſion, &amp;c.</hi>
+            </p>
+            <p>In which, and according to the Tenor of which, I ſerved in the ſincerity of my heart, without any Equivocation, or further Intenti<g ref="char:EOLhyphen"/>ons, according to that little skill God had indued me with, how faithfully, and to how much advantage to them, and their Cauſe, in the midſt of all diſcouragements; the Parliament and Kingdome cannot be ignorant; and how little perſonall advantage I have made by the ſaid ſervice (more then that content I have had in my ſelf and Conſcience, making it my delight to doe, and performe my Truſt to the Parliament and Kingdome) I do not appeal to thoſe Of<g ref="char:EOLhyphen"/>ficers and Souldiers that ſerved with me, as alſo thoſe Parts and Countries wherein I moſt ſerved, and through which I Marched: And therefore need not deſpaire to hope that when God in mercy ſhall pleaſe to ſettle the Kingdome in Peace, I ſhall find from the Parliament and Kingdome that Juſtice, in their care for the paying unto me my Arreares (which is great) which they have not denyed to diverſe, whoſe faithfulneſſe or ſervices have not ſpoken louder for them, then mine have done for me; Nor whoſe expences for
+<pb n="5" facs="tcp:115246:3"/>the advantage of their ſervice came in competition with mine, which thoſe Votes and promiſes of 1000 l.<hi>per an.</hi> (not yet performed unto me) put me upon. And now having thus faithfully ſerved the Parl. &amp; Kingdome, finding my ſelf for the ſame (only) rewarded with a Priſon, my complaint of the ſame is the more; For I dare appeal to the very Hearts and Conſciences of my greateſt enemies. (who falſly lay upon me the enjoying of Sir <hi>Ioh: Winters</hi> Eſtate, which he himſelf enjoyeth by their ſpeciall favour, and for their particular ſervice) ei<g ref="char:EOLhyphen"/>ther now ſitting in the Houſe of Commons, or in the General Coun<g ref="char:EOLhyphen"/>cell of the Army, <hi>(as they create, and ſo ſtyle themſelves)</hi> or any other: That they have nothing either worthy of Reſtraint, or bones to lay to my charge, only their own ſinfull fears, which to their own ſouls they have contracted by their own horrid Apoſtacy, from all their former profeſſions of Zeal to Gods Glory and Church, of Honour and Safety to the <hi>King,</hi> and His <hi>Poſteriiy,</hi> and of faithfullneſſe and Obedience to the <hi>Parliament,</hi> and in them to the whole Kingdome for their peace and welfare. And therein, and in order to their fur<g ref="char:EOLhyphen"/>ther Deſignes, (by bloud and cruelty) to over-turne all the founda<g ref="char:EOLhyphen"/>tions of Government, both in Church and State; And to enſlave the Kingdome, by bringing it under their Vaſſellage and iron Yoak; the ſatisfying of their own <hi>Luſts, Covetouſneſſe, Pride, and Ambi<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Theſe are the true Grounds of their Impriſoning my ſelf, with the other faithfull Gentlemen, my Fellow-members, who have ever ſtood firme to our firſt Principalls, and hated to joyne hands with them in their ſuch <hi>horrid and Treaſonable Deſignes,</hi> and <hi>Actings</hi> againſt either the <hi>Kings Perſon,</hi> the <hi>Parliament,</hi> the Conſtitutions and Lawes of the Kingdome, or the welfare of the People: All which, by diverſe <hi>Oathes,</hi> and our <hi>Covenant,</hi> we are ſworn to Pre<g ref="char:EOLhyphen"/>ſerve and Maintaine.</p>
+            <p>And now they ſeeing that my ſelf could not be brought (by Gods mercy to me) unto any complyance with them in their ſinfull waies, by all their temptations and allurements; but on the contrary, found my expreſſions and reſolutions to oppoſe them therein, according to my duty and truſt, (which God enabling me, I ſhall ever doe) They, for the expreſſion of their malice, as well as the manifeſtation of their feares, moſt injuſtly and illegally ſecured my Perſon (with di<g ref="char:EOLhyphen"/>vers other Gentlemen) and made me a <hi>Priſoner</hi> to their <hi>treacherous and tyrannicall Sword:</hi> In the meane time, aſperſing me with all man<g ref="char:EOLhyphen"/>ner of ſcandals, lies, and falſe reports of their owne forging, That ſo
+<pb n="6" facs="tcp:115246:4"/>the unknowing credulous, might be ſurpriſed by them, in giving credit to ſomething thereof, (at which ſuch as know me would laugh to ſcorne at the reporting) poſting me from place to place, and from <hi>Priſon</hi> to <hi>Priſon,</hi> detaining me full 6 Weeks without aſſigning or ſhewing Cauſe thereof, or laying any particular Crime to my particular Charge, againſt their owne ſentance and Maxime (as a matter of great injuſtice to others (of their Faction, though Legally Impriſoned) to be detain'd <hi>Priſoner</hi> above 48 howers, without giving in a particular Charge againſt them; ſo that I having been kept ſo long, and ſaw that my <hi>Impriſonment</hi> was onely by a forceable hand, and no Legallity in it (as at our Proteſt given in at the <hi>Kings-head</hi> in the <hi>Strand</hi> it was confeſſed by <hi>Marſhall Generall Lawrance;</hi> and ſince alſo confeſſed by the <hi>Generall Councell of the Army</hi> in their <hi>humble Anſwer to the Houſe of Commons</hi> before cited. And that I could expect no Legall triall or Juſtice no more than he that's fallen into the hands of <hi>Thieves</hi> and <hi>Murtherers,</hi> (the Caſe being the ſame, or worſe) as alſo upon good conſideration had of the little advan<g ref="char:EOLhyphen"/>tage my ſtay would be, and what advantage by Gods mercy my free<g ref="char:EOLhyphen"/>dome (from thoſe hands of violence) might prove to a future juſti<g ref="char:EOLhyphen"/>fying not onely of my ſelfe, but of all the reſt of the injuriouſly <hi>im<g ref="char:EOLhyphen"/>priſoned Members,</hi> and our joynt Cauſe: I ſuppoſed, ſeeing the Al<g ref="char:EOLhyphen"/>mighty opened a dore for my delivery, it had been a denying of his mercies to me, and a tempting of the Lord to have given me over to the <hi>luſts</hi> and <hi>malice</hi> of thoſe mine, and the Kingdomes Enemies; and therefore, by Gods leave, I gave my ſelf a <hi>Habeas Corpus</hi> to enjoy as much of that freedome that was my owne, as that it ſhould pleaſe God to give me for the good and advantage of his Cauſe &amp; People; which <hi>Covenant-breakers,</hi> and <hi>Perjurers,</hi> have ſo villified and trodden under feet: And notwithſtanding my freedome taken, yet doe I hereby profeſſe, that if at any time, I ſhall by a Legall Authority be Called to Anſwer any thing that may be laid to my Charge, I ſhall willingly and readily doe the ſame, as well for the Vindication of my ſelfe, as the ſatisfaction of all men whatſoever; although I, and all honeſt men muſt proteſt againſt that Juriſdiction this Army hath uſurped to themſelves, as not onely <hi>Illegall,</hi> but <hi>Tyrannicall,</hi> and <hi>Tre<g ref="char:EOLhyphen"/>cherous;</hi> as alſo againſt that <hi>part of the Houſe of Commons,</hi> now ſit<g ref="char:EOLhyphen"/>ting <hi>under the Power of the Sword;</hi> as no Houſe, nor competent Judges over my ſelfe, or any other Member of Parliament or other, untill the Houſes be freed from all violence and force, and all the Members be reſtored.</p>
+            <pb n="7" facs="tcp:115246:4"/>
+            <p>And laſtly, ſince above all brands of Infamy, the name of <hi>Hypo<g ref="char:EOLhyphen"/>crites,</hi> and <hi>Traytour,</hi> ſtriketh and woundeth deepeſt at the heart of any Perſon, if but under a common or civill capacity, much more ſuch as are truly Engliſh-men and Chriſtians, and farre more yet, of ſuch as not only have made profeſſion of the Goſpel of <hi>Jeſus Chriſt,</hi> but <hi>ſworne,</hi> and <hi>Covenanted</hi> to maintaine the ſame, the glory thereof; That I may cleare my ſelfe before men (as I hope I have approved my ſelfe to God, <hi>I doe in his preſence, who is the ſearcher of all hearts, in all humility make this following Profeſſion and Proteſtation:</hi>
+            </p>
+            <div type="profession_and_protestation">
+               <p>That I never intended (in all the ſervices I have done for the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> and <hi>Kingdome,</hi> either as a Souldier in the field, or as a <hi>Mem<g ref="char:EOLhyphen"/>ber</hi> of the <hi>Houſe of Commons</hi>) the leaſt evill towards <hi>His Majeſties Royall Perſon King</hi> CHARLES <hi>my undoubted Legall King and Sove<g ref="char:EOLhyphen"/>raigne, or to His Royall Iſſue, or Poſterity, His Crowne or Dignity;</hi> but engaged in the Parliaments ſervice with a cleare intention and ſin<g ref="char:EOLhyphen"/>cere heart according to the Parliaments <hi>Proteſtations, Declarations, Solemne League and Covenant,</hi> for the good of the KING <hi>and His Poſterity,</hi> the <hi>Parliament and their Priviledges, the Eſtabliſhment of the Lawes of the Land,</hi> and this poore diſtreſſed and oppreſſed King<g ref="char:EOLhyphen"/>dome, <hi>for its peace and welfare.</hi>
+               </p>
+               <p>And therefore I ſhall adde this following Proteſtation, <hi>That I take that violence offered to the KING'S Majeſties Perſon, to the Houſes of Parliament and their Members, and to the Laws of the King<g ref="char:EOLhyphen"/>dome, by the Army under the Command of</hi> Thomas <hi>Lord</hi> Fairfax; to be a moſt <hi>damnable</hi> and <hi>treaſonable Act,</hi> and contrary to that faith they have ſworn to God, or truſt repoſed in them by the Parliament and Kingdome: And doe hereby further proteſt, being induced hereunto by no other motive or argument, than for the ſatisfying of my owne Conſcience, and in duty to GOD, the KING, Parliament, and Kingdome, not through any the leaſt thought of perſonall Re<g ref="char:EOLhyphen"/>venge for any injuſtice I (in my particular) have ſuffered at their hands; for, God that knowes my heart, knoweth that I beare not unto the Perſon of any one amongſt them, the leaſt malice, but glad<g ref="char:EOLhyphen"/>ly ſhall paſſe by any injury they have done unto my particular <hi>Perſon</hi> or <hi>honour:</hi> But to teſtifie my Abhorrency to their waies of ſinne and violence, as thereby they make themſelves Enemies to God and his Church, and truly wiſh and pray for them, that yet they may looke back and Repent, that ſo they may obtaine mercy and pardon from God, and not that they, by their going on in the ſame, be puniſhed
+<pb n="8" facs="tcp:115246:5"/>and followed with divine vengeance, which is the portion of all the Contemners of his word, &amp;c.</p>
+               <p>Laſtly, that if the ſaid Army, <hi>The Generall Councell of the Army</hi> (as they call themſelves) or any other Ranke or quality of men of what ſort ſoever their Aſſiſtants, ſhall <hi>deſigne, act,</hi> or doe any thing further againſt the <hi>KING'S Majeſties Perſon, or Office,</hi> or againſt any of thoſe other ends we are obliged (according to the tenour of our In<g ref="char:EOLhyphen"/>gagements by our ſeverall <hi>Oathes of Allegiance, Supremacy, Proteſta<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Solemne League and Covenant</hi>) to maintaine; or ſhall en<g ref="char:EOLhyphen"/>deavour to introduce any New forme of Government, contrary to our Lawes and former Conſtitutions of the Land (which every faith<g ref="char:EOLhyphen"/>full Subject is <hi>with his life and fortune bound to maintaine</hi>) I ſhall not onely looke upon them, and repute them the moſt vile and perjured <hi>Traytors in the world</hi> (as by whom both our Nation, and Religion, is become not onely a hiſſing to all our Neighbour Nations round a<g ref="char:EOLhyphen"/>bout, but our very Religion made to ſtinke in the <hi>noſtrils</hi> of the very Adverſaries of the truth of God, by their hypocriſie; and to cauſe all the Reformed Churches in the whole world to cover their faces with ſhame on our behalfs) But alſo to my laſt breath with what ſtrength God ſhall ever put into my hand (his Grace enabling me) uſe it for bringing of them and their <hi>Adherents,</hi> as <hi>Traytours,</hi> to all exemplary and condigne puniſhment: and I doubt not but God will ſtirre up the hearts of all faithfull Patriots, who are tied by any of the aforeſaid Oathes, or otherwaies, to reſolve as one man with hearts and hands to purſue the like reſolutions to Gods glory, his Church and Peoples good, and this poore Kingdomes happineſſe.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>THat this <hi>DECLARATION</hi> wrote with my owne Hand may paſſe the Preſſe, is my deſire and hopes, though neither my opportunity or time would permit me to ſee it Corrected or Printed.</p>
+            <closer>
+               <signed>EDW: MASSIE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
